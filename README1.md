@@ -1,6 +1,7 @@
-# regression
+# Linear Regression
 
-Linear Regession
+Regression
+
 # use the code
 ```py
 
